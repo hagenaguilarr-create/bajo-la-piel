@@ -1,0 +1,19 @@
+{
+  "kind": "official-report",
+  "mode": "record",
+  "sourceUrl": "https://www.gob.mx/cenapred/articulos/monitoreo-del-volcan-popocatepetl-hoy-26-de-octubre-de-2026?idiom=es",
+  "publishedAt": "2026-10-26T10:41:00-06:00",
+  "publishedDate": "2026-10-26",
+  "checkedAt": "2026-10-26T21:38:30.747Z",
+  "station": "CENAPRED",
+  "unit": null,
+  "sampleRate": null,
+  "classification": null,
+  "exhalations": 60,
+  "tremorMinutes": null,
+  "alert": "AMARILLO FASE 2",
+  "stale": false,
+  "warning": "Informe oficial incluido en esta edición estática; se actualiza al republicar el archivo de datos.",
+  "cached": false,
+  "deliverySnapshot": true
+}
